@@ -5,6 +5,17 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/feaa6fHW4feNW6rX3K/giphy.gif?cid=6c09b952r5y2mw37fz3e89tma1ruq5jbsxl8brewcirwoey5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
 
 <div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" height="30" alt="html5"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="30" alt="Css3"  />
+  <img width="12" />
+  <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" height="30" alt="Sass"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/lesscss_logo_icon_169274.png" height="30" alt="Less"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/2327532/39481401-fa7d2992-4d30-11e8-886d-c4a3ee88147f.png" height="30" alt="Bootstrap"  />
+  <img width="12" />
+  <br />
   <img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" height="30" alt="node js"  />
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="30" alt="javascript"  />
