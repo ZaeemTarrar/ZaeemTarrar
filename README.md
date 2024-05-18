@@ -64,11 +64,11 @@
 <!--   <img height="150" width="150" src="WEBP/right.webp"/> -->
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ZaeemTarrar&theme=react-dark&hide_border=true&area=true)
+![snake gif](https://raw.githubusercontent.com/ZaeemTarrar/ZaeemTarrar/f8e54a0d239baf5b4dacd72e146c1f6149f73229/only-svg/github-contribution-grid-snake-dark.svg)
 
 #
 
-![snake gif](https://raw.githubusercontent.com/ZaeemTarrar/ZaeemTarrar/f8e54a0d239baf5b4dacd72e146c1f6149f73229/only-svg/github-contribution-grid-snake-dark.svg)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ZaeemTarrar&theme=react-dark&hide_border=true&area=true)
 
 #
 
