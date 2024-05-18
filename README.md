@@ -1,4 +1,5 @@
 <h1 align="center">
+  $${\color{red}Red}$$
   👋 function() { return &lt;hello&gt; Beautiful &lt;world/&gt; ; } 
 </h1>
 
