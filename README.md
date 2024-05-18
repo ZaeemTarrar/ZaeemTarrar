@@ -27,10 +27,6 @@
 
 #
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ZaeemTarrar&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-
-#
-
 <p align="center">
 <!--   <img height="150" width="150" src="WEBP/left.webp"/> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaeemTarrar&theme=dark&hide_border=true"/> <br/> <br/>
@@ -68,3 +64,9 @@
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/></code>
+
+#
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ZaeemTarrar&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+#
