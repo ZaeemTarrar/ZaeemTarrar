@@ -68,7 +68,7 @@
 
 #
 
-![snake gif](https://github.com/ZaeemTarrar/ZaeemTarrar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ZaeemTarrar/ZaeemTarrar/f8e54a0d239baf5b4dacd72e146c1f6149f73229/only-svg/github-contribution-grid-snake.svg)
 
 #
 
