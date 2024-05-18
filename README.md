@@ -2,6 +2,8 @@
 
 <h3 align="left">💻 Languages :</h3>
 
+<img align="right" height="150" src="https://media0.giphy.com/media/feaa6fHW4feNW6rX3K/giphy.gif?cid=6c09b952r5y2mw37fz3e89tma1ruq5jbsxl8brewcirwoey5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -18,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<img align="right" height="150" src="https://media0.giphy.com/media/feaa6fHW4feNW6rX3K/giphy.gif?cid=6c09b952r5y2mw37fz3e89tma1ruq5jbsxl8brewcirwoey5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
 
 <h3 align="left">🌍 Social Media :</h3>
 
