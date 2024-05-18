@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+<img align="right" height="150" src="https://media0.giphy.com/media/feaa6fHW4feNW6rX3K/giphy.gif?cid=6c09b952r5y2mw37fz3e89tma1ruq5jbsxl8brewcirwoey5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
+
 <h3 align="left">🌍 Social Media :</h3>
 
 <div align="left">
@@ -38,7 +40,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/feaa6fHW4feNW6rX3K/giphy.gif?cid=6c09b952r5y2mw37fz3e89tma1ruq5jbsxl8brewcirwoey5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
+
 
 ###
 
