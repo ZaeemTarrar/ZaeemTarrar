@@ -5,7 +5,7 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/feaa6fHW4feNW6rX3K/giphy.gif?cid=6c09b952r5y2mw37fz3e89tma1ruq5jbsxl8brewcirwoey5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952xatf8sqdsfa28yw08j4woac4oulpzhn9oghp19h8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" height="30" alt="javascript"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
