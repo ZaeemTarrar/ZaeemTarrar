@@ -4,8 +4,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-<br/>
-<br/>
+#
 
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
@@ -16,8 +15,7 @@
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
-<br/>
-<br/>
+#
 
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ZaeemTarrar&style=flat&color=blue"/> •   
@@ -27,14 +25,11 @@
   <a href="https://github.com/sponsors/ZaeemTarrar"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
-<br/>
-<br/>
-
 #
+
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ZaeemTarrar&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
-<br/>
-<br/>
+#
 
 <p align="center">
 <!--   <img height="150" width="150" src="WEBP/left.webp"/> -->
