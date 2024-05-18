@@ -13,8 +13,7 @@
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
-<br/>
-
+<!--
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ZaeemTarrar&style=flat&color=blue"/> •   
   <a href="https://user-badge.committers.top/india_private/ZaeemTarrar"><img src="https://user-badge.committers.top/india_private/ZaeemTarrar.svg"/></a> •
@@ -22,6 +21,7 @@
   <img src="https://img.shields.io/github/stars/ZaeemTarrar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
   <a href="https://github.com/sponsors/ZaeemTarrar"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
+-->
 
 #
 
