@@ -15,7 +15,6 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/2327532/39481401-fa7d2992-4d30-11e8-886d-c4a3ee88147f.png" height="30" alt="Bootstrap"  />
   <img width="12" />
-  <br />
   <img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" height="30" alt="node js"  />
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="30" alt="javascript"  />
@@ -25,6 +24,16 @@
   <img src="https://www.clavistechnologies.com/wp-content/uploads/2020/10/react-logo.png" height="30" alt="react-native"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="30" alt="electron"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="30" alt="Vue Js"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="30" alt="Angular"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:300/1*h9G7gjWQeQVwqkbhHVvOQg.png" height="30" alt="P5"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" height="30" alt="Next Js"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" height="30" alt="Nest Js"  />
   <img width="12" />
 </div>
 
