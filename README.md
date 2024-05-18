@@ -5,25 +5,16 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/feaa6fHW4feNW6rX3K/giphy.gif?cid=6c09b952r5y2mw37fz3e89tma1ruq5jbsxl8brewcirwoey5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
 
 <div align="left">
-  <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952xatf8sqdsfa28yw08j4woac4oulpzhn9oghp19h8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" height="30" alt="javascript"  />
+  <img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" height="30" alt="node js"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="30" alt="javascript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/node-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30" alt="react js"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/electron-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://www.clavistechnologies.com/wp-content/uploads/2020/10/react-logo.png" height="30" alt="react-native"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/reactnative-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="30" alt="electron"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 
