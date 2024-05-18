@@ -68,10 +68,10 @@
 
 #
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ZaeemTarrar&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![snake gif](https://github.com/ZaeemTarrar/ZaeemTarrar/blob/output/github-contribution-grid-snake.svg)
 
 #
 
-![snake gif](https://github.com/ZaeemTarrar/ZaeemTarrar/blob/output/github-contribution-grid-snake.svg)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ZaeemTarrar&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 #
