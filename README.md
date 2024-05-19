@@ -73,6 +73,10 @@
   <img width="12" />
   <img src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png" height="30" alt="Swift"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" height="30" alt="PHP"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/L/laravel-logo-9B01588B1F-seeklogo.com.png" height="30" alt="Laravel"  />
+  <img width="12" />
   <img src="https://i.pinimg.com/originals/9c/1a/7b/9c1a7b98ba1e02023393846c9509c587.png" height="30" alt="Go" />
   <img width="12" />
   <img src="https://rustacean.net/assets/rustacean-flat-happy.png" height="30" alt="Rust"  />
@@ -116,6 +120,7 @@
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/2779/2779266.png" height="30" alt="PCB"  />
   <img width="12" />
+
 </div>
 
 #
