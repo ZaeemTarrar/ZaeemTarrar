@@ -52,36 +52,38 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" height="30" alt="Nest Js"  />
   <img width="12" />
+  
   <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" height="30" alt="html5"  />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="30" alt="c++"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="30" alt="Css3"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="30" alt="C#" />
   <img width="12" />
-  <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" height="30" alt="Sass"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png" height="30" alt="Java"  />
   <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/lesscss_logo_icon_169274.png" height="30" alt="Less"  />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" height="30" alt="Kotlin"  />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/2327532/39481401-fa7d2992-4d30-11e8-886d-c4a3ee88147f.png" height="30" alt="Bootstrap"  />
+  <img src="https://seeklogo.com/images/A/android-logo-9E4539A7DE-seeklogo.com.png" height="30" alt="Android"  />
   <img width="12" />
-  <img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" height="30" alt="node js"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png?f=webp" height="30" alt="Python"  />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="30" alt="javascript"  />
+  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" height="30" alt="Flask"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30" alt="react js"  />
+  <img src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" height="30" alt="Django"  />
   <img width="12" />
-  <img src="https://www.clavistechnologies.com/wp-content/uploads/2020/10/react-logo.png" height="30" alt="react-native"  />
+  <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" height="30" alt="Pygame"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="30" alt="electron"  />
+  <img src="https://media.licdn.com/dms/image/C4E12AQGw-1Ui-uNwvg/article-inline_image-shrink_1500_2232/0/1626970422292?e=1720051200&v=beta&t=t8_eXmf92F6xg3WHOwv2kSVsNA0sMzIrzZwXxvvs_TE" height="30" alt="Tkinter"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="30" alt="Vue Js"  />
+  <img src="https://media.licdn.com/dms/image/C4E12AQGw-1Ui-uNwvg/article-inline_image-shrink_1500_2232/0/1626970422292?e=1720051200&v=beta&t=t8_eXmf92F6xg3WHOwv2kSVsNA0sMzIrzZwXxvvs_TE" height="30" alt="Rust"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="30" alt="Angular"  />
+  <img src="https://i.pinimg.com/originals/9c/1a/7b/9c1a7b98ba1e02023393846c9509c587.png" height="30" alt="Go" />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:300/1*h9G7gjWQeQVwqkbhHVvOQg.png" height="30" alt="P5"  />
+  <img src="https://www.techspot.com/images2/downloads/topdownload/2014/05/unity.png" height="30" alt="Unity"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" height="30" alt="Next Js"  />
+  <img src="https://cdn2.steamgriddb.com/icon/c165343f46d5946c6f76c58a5ed0f52c.png" height="30" alt="UnReal"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" height="30" alt="Nest Js"  />
+  <img src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png" height="30" alt="Swift"  />
   <img width="12" />
 </div>
 
