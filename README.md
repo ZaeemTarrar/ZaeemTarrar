@@ -67,7 +67,7 @@
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png?f=webp" height="30" alt="Python"  />
   <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" height="30" alt="Flask"  />
+  <img src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM" height="30" alt="Flask"  />
   <img width="12" />
   <img src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" height="30" alt="Django"  />
   <img width="12" />
@@ -75,7 +75,7 @@
   <img width="12" />
   <img src="https://media.licdn.com/dms/image/C4E12AQGw-1Ui-uNwvg/article-inline_image-shrink_1500_2232/0/1626970422292?e=1720051200&v=beta&t=t8_eXmf92F6xg3WHOwv2kSVsNA0sMzIrzZwXxvvs_TE" height="30" alt="Tkinter"  />
   <img width="12" />
-  <img src="https://media.licdn.com/dms/image/C4E12AQGw-1Ui-uNwvg/article-inline_image-shrink_1500_2232/0/1626970422292?e=1720051200&v=beta&t=t8_eXmf92F6xg3WHOwv2kSVsNA0sMzIrzZwXxvvs_TE" height="30" alt="Rust"  />
+  <img src="https://rustacean.net/assets/rustacean-flat-happy.png" height="30" alt="Rust"  />
   <img width="12" />
   <img src="https://i.pinimg.com/originals/9c/1a/7b/9c1a7b98ba1e02023393846c9509c587.png" height="30" alt="Go" />
   <img width="12" />
