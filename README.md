@@ -55,9 +55,13 @@
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="30" alt="c++"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Qt_logo_2015.svg/1380px-Qt_logo_2015.svg.png" height="30" alt="Qt"  />
+  <img width="12" />
   <img src="https://cdn2.steamgriddb.com/icon/c165343f46d5946c6f76c58a5ed0f52c.png" height="30" alt="UnReal"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="30" alt="C#" />
+  <img width="12" />
+  <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064f1fedf422395124660e_e7d03466.png" height="30" alt="DotNet"  />
   <img width="12" />
   <img src="https://www.techspot.com/images2/downloads/topdownload/2014/05/unity.png" height="30" alt="Unity"  />
   <img width="12" />
@@ -69,6 +73,10 @@
   <img width="12" />
   <img src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png" height="30" alt="Swift"  />
   <img width="12" />
+  <img src="https://i.pinimg.com/originals/9c/1a/7b/9c1a7b98ba1e02023393846c9509c587.png" height="30" alt="Go" />
+  <img width="12" />
+  <img src="https://rustacean.net/assets/rustacean-flat-happy.png" height="30" alt="Rust"  />
+  <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png?f=webp" height="30" alt="Python"  />
   <img width="12" />
   <img src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM" height="30" alt="Flask"  />
@@ -79,21 +87,6 @@
   <img width="12" />
   <img src="https://media.licdn.com/dms/image/C4E12AQGw-1Ui-uNwvg/article-inline_image-shrink_1500_2232/0/1626970422292?e=1720051200&v=beta&t=t8_eXmf92F6xg3WHOwv2kSVsNA0sMzIrzZwXxvvs_TE" height="30" alt="Tkinter"  />
   <img width="12" />
-  <img src="https://i.pinimg.com/originals/9c/1a/7b/9c1a7b98ba1e02023393846c9509c587.png" height="30" alt="Go" />
-  <img width="12" />
-  <img src="https://rustacean.net/assets/rustacean-flat-happy.png" height="30" alt="Rust"  />
-  <img width="12" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Qt_logo_2015.svg/1380px-Qt_logo_2015.svg.png" height="30" alt="Qt"  />
-  <img width="12" />
-  <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064f1fedf422395124660e_e7d03466.png" height="30" alt="DotNet"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" height="30" alt="Docker" />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" height="30" alt="Heroku"  />
-  <img width="12" />
-  <img src="https://www.telestream.net/aws/images/aws.png" height="30" alt="AWS"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="30" alt="Tensorflow"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" height="30" alt="Pytorch"  />
@@ -101,6 +94,13 @@
   <img src="https://cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png" height="30" alt="ScikitLearn"  />
   <img width="12" />
   <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" height="30" alt="OpenCV"  />
+  <img width="12" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" height="30" alt="Docker" />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" height="30" alt="Heroku"  />
+  <img width="12" />
+  <img src="https://www.telestream.net/aws/images/aws.png" height="30" alt="AWS"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" height="30" alt="Linux"  />
   <img width="12" />
