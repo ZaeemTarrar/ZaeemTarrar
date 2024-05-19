@@ -83,6 +83,39 @@
   <img width="12" />
   <img src="https://rustacean.net/assets/rustacean-flat-happy.png" height="30" alt="Rust"  />
   <img width="12" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Qt_logo_2015.svg/1380px-Qt_logo_2015.svg.png" height="30" alt="Qt"  />
+  <img width="12" />
+  <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064f1fedf422395124660e_e7d03466.png" height="30" alt="DotNet"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" height="30" alt="Docker" />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" height="30" alt="Heroku"  />
+  <img width="12" />
+  <img src="https://www.telestream.net/aws/images/aws.png" height="30" alt="AWS"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="30" alt="Tensorflow"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" height="30" alt="Pytorch"  />
+  <img width="12" />
+  <img src="https://cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png" height="30" alt="ScikitLearn"  />
+  <img width="12" />
+  <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" height="30" alt="OpenCV"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" height="30" alt="Linux"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/A/apple-mac-os-logo-02F86B913E-seeklogo.com.png" height="30" alt="Mac"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" height="30" alt="Windows"  />
+  <img width="12" />
+  <img src="https://www.freepngdesign.com/content/uploads/images/raspberry-pi-logo-6328.png" height="30" alt="RaspberryPi"  />
+  <img width="12" />
+  <img src="https://support.arduino.cc/hc/article_attachments/12416033021852" height="30" alt="Arduino" />
+  <img width="12" />
+  <img src="https://www.iotforall.com/wp-content/uploads/2017/05/IoT-For-All-Logo.png" height="30" alt="IOT"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2779/2779266.png" height="30" alt="PCB"  />
+  <img width="12" />
 </div>
 
 #
