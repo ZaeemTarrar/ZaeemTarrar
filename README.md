@@ -125,6 +125,10 @@
 
 #
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/zaeemtarrar3?ext=heatmap)
+
+#
+
 <p align="center">
 <!--   <img height="150" width="150" src="WEBP/left.webp"/> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaeemTarrar&theme=dark&hide_border=true"/> <br/> <br/>
