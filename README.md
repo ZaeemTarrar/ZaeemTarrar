@@ -136,6 +136,18 @@
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZaeemTarrar&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/> 
   &nbsp;
+
+  <br />
+  <br />
+  <img align="center" src="https://raw.githubusercontent.com/ZaeemTarrar/ZaeemTarrar/f8e54a0d239baf5b4dacd72e146c1f6149f73229/only-svg/github-contribution-grid-snake-dark.svg"/> 
+
+  <br />
+  <br />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ZaeemTarrar&theme=react-dark&hide_border=true&area=true"/> 
+
+  <br />
+  <br />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ZaeemTarrar&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/> 
 <!--   <img height="150" width="150" src="WEBP/right.webp"/> -->
 </p>
 
