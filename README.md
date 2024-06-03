@@ -6,7 +6,7 @@
 
 <div>
   <img align="right" width="100px" src=".github/workflows/robo.webp" />
-  <div align="left" style="text-align:justify;line-spacing:10px;" >
+  <div align="left" >
     🎓 I'm currently pursuing a Degree in **Mechatronics & Robotics**. <br />
     🔭 I'm currently working with **MERN Stack 𝚊𝚗𝚍 JS Tech.** <br />
     🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **A.I, Hardware, IoT and Ethical Hacking.** <br />
