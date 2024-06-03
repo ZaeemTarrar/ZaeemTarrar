@@ -138,6 +138,11 @@
   &nbsp;
 
   <br />
+  <br />
+  <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaeemTarrar&theme=github_dark"/> 
+
+  <br />
   <img align="center" src="https://raw.githubusercontent.com/ZaeemTarrar/ZaeemTarrar/f8e54a0d239baf5b4dacd72e146c1f6149f73229/only-svg/github-contribution-grid-snake-dark.svg"/> 
 
   <br />
@@ -149,7 +154,4 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ZaeemTarrar&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/> 
 <!--   <img height="150" width="150" src="WEBP/right.webp"/> -->
 </p>
-
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaeemTarrar&theme=github_dark"/> 
 
