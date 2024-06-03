@@ -6,7 +6,7 @@
 
 <div>
   <img align="right" height="140px" src=".github/workflows/robo.webp" />
-  <img align="left" height="140px" src=".github/workflows/coding.gif" />
+  <img align="left" height="170px" src=".github/workflows/coding.gif" />
   <div align="left" >
     🎓 &nbsp; I'm currently pursuing a Degree in **Mechatronics & Robotics**. <br />
     🔭 &nbsp; I'm currently working with **MERN Stack 𝚊𝚗𝚍 JS Tech.** <br />
