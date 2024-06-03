@@ -7,12 +7,12 @@
 <div>
   <img align="right" width="100px" src=".github/workflows/robo.webp" />
   <div align="left" >
-    🎓 I'm currently pursuing a Degree in **Mechatronics & Robotics**. <br />
-    🔭 I'm currently working with **MERN Stack 𝚊𝚗𝚍 JS Tech.** <br />
-    🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **A.I, Hardware, IoT and Ethical Hacking.** <br />
-    👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Data Science, Ethical Hacking, IoT or Software Development**. <br />
-    ⚡ **Motto:** *I see a suit of Armor around the World !* <br />
-    🌍 **Goal:** To become a REAMNICS Engineer! <br />  <br />
+    🎓 &nbsp; I'm currently pursuing a Degree in **Mechatronics & Robotics**. <br />
+    🔭 &nbsp; I'm currently working with **MERN Stack 𝚊𝚗𝚍 JS Tech.** <br />
+    🌱 &nbsp; 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **A.I, Hardware, IoT and Ethical Hacking.** <br />
+    👯 &nbsp; 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Data Science, Ethical Hacking, IoT or Software Development**. <br />
+    ⚡ &nbsp; **Motto:** *I see a suit of Armor around the World !* <br />
+    🌍 &nbsp; **Goal:** To become a REAMNICS Engineer! <br />  <br />
   </div>
   <div style="float:clear;" ></div>
 </div>
