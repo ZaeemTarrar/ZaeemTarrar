@@ -12,7 +12,7 @@
     - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **A.I, Hardware, IoT and Ethical Hacking.** <br />
     - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Data Science, Ethical Hacking, IoT or Software Development**. <br />
     - ⚡ **Motto:** *I see a suit of Armor around the World !* <br />
-    - 🌍 **Goal:** To become a REAMNICS Engineer! <br />
+    - 🌍 **Goal:** To become a REAMNICS Engineer! <br />  <br />
   </div>
   <div style="float:clear;" ></div>
 </div>
