@@ -150,3 +150,6 @@
 <!--   <img height="150" width="150" src="WEBP/right.webp"/> -->
 </p>
 
+
+!()[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default]
+
