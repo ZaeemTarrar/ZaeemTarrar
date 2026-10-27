@@ -1,135 +1,234 @@
-<h1 align="center">
-  👋 function() { return &lt;Hello&gt; Beautiful &lt;World/&gt; ; } 
-</h1>
-
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/> -->
-
-<div>
-    <img align="right" height="130px" style="margin-right:10px;" src=".github/workflows/coding.gif" />
-  <div align="left" >
-    &nbsp;&nbsp; 🎓 &nbsp; I'm currently pursuing a Degree in **Mechatronics & Robotics**. <br />
-    &nbsp;&nbsp; 🔭 &nbsp; I'm currently working with **MERN Stack 𝚊𝚗𝚍 JS Tech.** <br />
-    &nbsp;&nbsp; 🌱 &nbsp; 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **A.I, Hardware, IoT and Ethical Hacking.** <br />
-    &nbsp;&nbsp; 👯 &nbsp; 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Data Science, Ethical Hacking, IoT or Software Development**. <br />
-    &nbsp;&nbsp; ⚡ &nbsp; **Motto:** *I see a suit of Armor around the World !* <br />
-    &nbsp;&nbsp; 🌍 &nbsp; **Goal:** To become a REAMNICS Engineer! <br />  <br />
-  </div>
-  <div style="float:clear;" ></div>
-</div>
-
-<!--
-<p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ZaeemTarrar&style=flat&color=blue"/> •   
-  <a href="https://user-badge.committers.top/india_private/ZaeemTarrar"><img src="https://user-badge.committers.top/india_private/ZaeemTarrar.svg"/></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ZaeemTarrar?label=Followers&style=social"/> •
-  <img src="https://img.shields.io/github/stars/ZaeemTarrar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
-  <a href="https://github.com/sponsors/ZaeemTarrar"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-</p>
--->
-
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" height="35" alt="html5"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="35" alt="Css3"  />
-  <img width="12" />
-  <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" height="35" alt="Sass"  />
-  <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/lesscss_logo_icon_169274.png" height="35" alt="Less"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/2327532/39481401-fa7d2992-4d30-11e8-886d-c4a3ee88147f.png" height="35" alt="Bootstrap"  />
-  <img width="12" />
-  <img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" height="35" alt="node js"  />
-  <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="35" alt="javascript"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="35" alt="react js"  />
-  <img width="12" />
-  <img src="https://www.clavistechnologies.com/wp-content/uploads/2020/10/react-logo.png" height="35" alt="react-native"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="35" alt="electron"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="35" alt="Vue Js"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="35" alt="Angular"  />
-  <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:300/1*h9G7gjWQeQVwqkbhHVvOQg.png" height="35" alt="P5"  />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" height="35" alt="Next Js"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" height="35" alt="Nest Js"  />
-  <img width="12" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="35" alt="c++"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Qt_logo_2015.svg/1380px-Qt_logo_2015.svg.png" height="35" alt="Qt"  />
-  <img width="12" />
-  <img src="https://cdn2.steamgriddb.com/icon/c165343f46d5946c6f76c58a5ed0f52c.png" height="35" alt="UnReal"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="35" alt="C#" />
-  <img width="12" />
-  <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064f1fedf422395124660e_e7d03466.png" height="35" alt="DotNet"  />
-  <img width="12" />
-  <img src="https://www.techspot.com/images2/downloads/topdownload/2014/05/unity.png" height="35" alt="Unity"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png" height="35" alt="Java"  />
-  <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" height="35" alt="Kotlin"  />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/A/android-logo-9E4539A7DE-seeklogo.com.png" height="35" alt="Android"  />
-  <img width="12" />
-  <img src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png" height="35" alt="Swift"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" height="35" alt="PHP"  />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/L/laravel-logo-9B01588B1F-seeklogo.com.png" height="35" alt="Laravel"  />
-  <img width="12" />
-  <img src="https://i.pinimg.com/originals/9c/1a/7b/9c1a7b98ba1e02023393846c9509c587.png" height="35" alt="Go" />
-  <img width="12" />
-  <img src="https://rustacean.net/assets/rustacean-flat-happy.png" height="35" alt="Rust"  />
-  <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png?f=webp" height="35" alt="Python"  />
-  <img width="12" />
-  <img src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM" height="35" alt="Flask"  />
-  <img width="12" />
-  <img src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" height="35" alt="Django"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" height="35" alt="Pygame"  />
-  <img width="12" />
-  <img src="https://media.licdn.com/dms/image/C4E12AQGw-1Ui-uNwvg/article-inline_image-shrink_1500_2232/0/1626970422292?e=1720051200&v=beta&t=t8_eXmf92F6xg3WHOwv2kSVsNA0sMzIrzZwXxvvs_TE" height="35" alt="Tkinter"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="35" alt="Tensorflow"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" height="35" alt="Pytorch"  />
-  <img width="12" />
-  <img src="https://cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png" height="35" alt="ScikitLearn"  />
-  <img width="12" />
-  <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" height="35" alt="OpenCV"  />
-  <img width="12" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" height="35" alt="Docker" />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" height="35" alt="Heroku"  />
-  <img width="12" />
-  <img src="https://www.telestream.net/aws/images/aws.png" height="35" alt="AWS"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" height="35" alt="Linux"  />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/A/apple-mac-os-logo-02F86B913E-seeklogo.com.png" height="35" alt="Mac"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" height="35" alt="Windows"  />
-  <img width="12" />
-  <img src="https://www.freepngdesign.com/content/uploads/images/raspberry-pi-logo-6328.png" height="35" alt="RaspberryPi"  />
-  <img width="12" />
-  <img src="https://support.arduino.cc/hc/article_attachments/12416033021852" height="35" alt="Arduino" />
-  <img width="12" />
-  <img src="https://www.iotforall.com/wp-content/uploads/2017/05/IoT-For-All-Logo.png" height="35" alt="IOT"  />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2779/2779266.png" height="35" alt="PCB"  />
-  <img width="12" />
+# Zaeem Hassan Tarar
+
+### Principal Software Engineer · CTO & Co-Founder
+
+**Full-stack software · AI & agentic systems · Connected hardware**
+
+Building useful products at the intersection of software, intelligence and the physical world.
+
+[LinkedIn](https://www.linkedin.com/in/zaeem-hassan-tarar-15262b149/) · [LeetCode](https://leetcode.com/u/zaeemtarrar3/) · [Email](mailto:zaeemtarrar3@gmail.com)
 
 </div>
 
-#
+---
+
+## Engineering across the stack
+
+I'm a hands-on software engineer and technical leader with **12 years of experience** building web, mobile and desktop applications, backend services, real-time systems and hardware-integrated products.
+
+My work connects **software architecture and full-stack development** with **AI, machine learning, deep learning and computer vision**—from data preparation and model training to fine-tuning and local-model deployment. I also build **generative AI applications, RAG pipelines, MCP integrations and multi-agent workflows**, backed by experience in embedded systems, IoT and robotics.
+
+- **Currently:** Principal Full-Stack & AI Engineer / Technical Lead at **XLogyx**, and **Co-Founder & CTO at Kazido**.
+- **Leadership:** Architecture, hands-on implementation, code review, mentoring and end-to-end technical delivery; leading eight engineers at Kazido.
+- **Product experience:** FinTech, e-commerce, business software, developer tools, real-time communications and connected devices.
+- **Open to:** Engineering leadership, challenging software projects and thoughtful technical collaboration.
+
+## What I build
+
+| Software & platforms | Intelligent systems | Hardware & infrastructure |
+| :--- | :--- | :--- |
+| Web, mobile & desktop applications | Generative AI, agents & orchestration | Embedded systems, IoT & robotics |
+| APIs, real-time services & distributed systems | RAG, vector search & memory systems | Cloud deployment & DevOps |
+| Architecture & technical delivery | ML, deep learning & computer vision | Observability, tracing & reliability |
+
+## Technology toolbox
+
+Tools and technologies used across professional work, personal projects and hands-on exploration.
+
+<details open>
+<summary><strong>Languages</strong></summary>
+<br />
+<table>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/python/python-original.svg" width="36" height="36" alt="Python" /><br /><sub>Python</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/rust/rust-original.svg" width="36" height="36" alt="Rust" /><br /><sub>Rust</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /><br /><sub>C++</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" /><br /><sub>C#</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/java/java-original.svg" width="36" height="36" alt="Java" /><br /><sub>Java</sub></td>
+</tr>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/php/php-original.svg" width="36" height="36" alt="PHP" /><br /><sub>PHP</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" height="36" alt="SQL" /><br /><sub>SQL</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/go/go-original.svg" width="36" height="36" alt="Go" /><br /><sub>Go</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" /><br /><sub>Kotlin</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/swift/swift-original.svg" width="36" height="36" alt="Swift" /><br /><sub>Swift</sub></td>
+</tr>
+</table>
+</details>
+
+<details open>
+<summary><strong>Web, mobile & desktop</strong></summary>
+<br />
+<table>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /><br /><sub>HTML5</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /><br /><sub>CSS3</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" /><br /><sub>Sass</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/less/less-plain-wordmark.svg" width="36" height="36" alt="Less" /><br /><sub>Less</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" /><br /><sub>Bootstrap</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/react/react-original.svg" width="36" height="36" alt="React" /><br /><sub>React</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/react/react-original.svg" width="36" height="36" alt="React Native" /><br /><sub>React Native</sub></td>
+</tr>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /><br /><sub>Next.js</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/angular/angular-original.svg" width="36" height="36" alt="Angular" /><br /><sub>Angular</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue.js" /><br /><sub>Vue.js</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/electron/electron-original.svg" width="36" height="36" alt="Electron" /><br /><sub>Electron</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/android/android-original.svg" width="36" height="36" alt="Android" /><br /><sub>Android</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/p5js/p5js-original.svg" width="36" height="36" alt="p5.js" /><br /><sub>p5.js</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/qt/qt-original.svg" width="36" height="36" alt="Qt" /><br /><sub>Qt</sub></td>
+</tr>
+</table>
+</details>
+
+<details open>
+<summary><strong>Backend & application frameworks</strong></summary>
+<br />
+<table>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /><br /><sub>Node.js</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/express/express-original.svg" width="36" height="36" alt="Express" /><br /><sub>Express</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="NestJS" /><br /><sub>NestJS</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/laravel/laravel-original.svg" width="36" height="36" alt="Laravel" /><br /><sub>Laravel</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/codeigniter/codeigniter-plain.svg" width="36" height="36" alt="CodeIgniter" /><br /><sub>CodeIgniter</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt="ASP.NET / .NET" /><br /><sub>ASP.NET / .NET</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /><br /><sub>FastAPI</sub></td>
+</tr>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" /><br /><sub>Flask</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/django/django-plain.svg" width="36" height="36" alt="Django" /><br /><sub>Django</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/wordpress/wordpress-original.svg" width="36" height="36" alt="WordPress" /><br /><sub>WordPress</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/drupal/drupal-original.svg" width="36" height="36" alt="Drupal" /><br /><sub>Drupal</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/strapi.svg" width="36" height="36" alt="Strapi" /><br /><sub>Strapi</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" /><br /><sub>GraphQL</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/grpc/grpc-original.svg" width="36" height="36" alt="gRPC" /><br /><sub>gRPC</sub></td>
+</tr>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/socketio/socketio-original.svg" width="36" height="36" alt="Socket.IO" /><br /><sub>Socket.IO</sub></td>
+</tr>
+</table>
+</details>
+
+<details open>
+<summary><strong>AI, machine learning & agent engineering</strong></summary>
+<br />
+<table>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" /><br /><sub>PyTorch</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" /><br /><sub>TensorFlow</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="scikit-learn" /><br /><sub>scikit-learn</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" /><br /><sub>OpenCV</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/huggingface/huggingface-original.svg" width="36" height="36" alt="Hugging Face" /><br /><sub>Hugging Face</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/ollama/ollama-original.svg" width="36" height="36" alt="Ollama" /><br /><sub>Ollama</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/langchain.svg" width="36" height="36" alt="LangChain" /><br /><sub>LangChain</sub></td>
+</tr>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/langgraph.svg" width="36" height="36" alt="LangGraph" /><br /><sub>LangGraph</sub></td>
+<td align="center" width="105"><strong>LangSmith</strong></td>
+<td align="center" width="105"><strong>Mastra</strong></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel AI SDK" /><br /><sub>Vercel AI SDK</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/modelcontextprotocol.svg" width="36" height="36" alt="MCP" /><br /><sub>MCP</sub></td>
+<td align="center" width="105"><strong>OpenAI</strong></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/pydantic.svg" width="36" height="36" alt="Pydantic" /><br /><sub>Pydantic</sub></td>
+</tr>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/zod.svg" width="36" height="36" alt="Zod" /><br /><sub>Zod</sub></td>
+</tr>
+</table>
+</details>
+
+<details open>
+<summary><strong>Databases & data tooling</strong></summary>
+<br />
+<table>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /><br /><sub>MongoDB</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/mongoose/mongoose-original.svg" width="36" height="36" alt="Mongoose" /><br /><sub>Mongoose</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /><br /><sub>MySQL</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="SQL Server" /><br /><sub>SQL Server</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" /><br /><sub>SQLite</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" /><br /><sub>Redis</sub></td>
+</tr>
+<tr>
+<td align="center" width="105"><strong>Qdrant</strong></td>
+<td align="center" width="105"><strong>pgvector</strong></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/elasticsearch/elasticsearch-original.svg" width="36" height="36" alt="Elasticsearch" /><br /><sub>Elasticsearch</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/sequelize/sequelize-original.svg" width="36" height="36" alt="Sequelize" /><br /><sub>Sequelize</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /><br /><sub>Pandas</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /><br /><sub>NumPy</sub></td>
+</tr>
+</table>
+</details>
+
+<details open>
+<summary><strong>Cloud, infrastructure & observability</strong></summary>
+<br />
+<table>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS" /><br /><sub>AWS</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" /><br /><sub>Azure</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /><br /><sub>Docker</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/kubernetes/kubernetes-original.svg" width="36" height="36" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" /><br /><sub>Nginx</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/heroku/heroku-original.svg" width="36" height="36" alt="Heroku" /><br /><sub>Heroku</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /><br /><sub>Linux</sub></td>
+</tr>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/git/git-original.svg" width="36" height="36" alt="Git" /><br /><sub>Git</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /><br /><sub>GitHub</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions" /><br /><sub>GitHub Actions</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/opentelemetry/opentelemetry-original.svg" width="36" height="36" alt="OpenTelemetry" /><br /><sub>OpenTelemetry</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/prometheus/prometheus-original.svg" width="36" height="36" alt="Prometheus" /><br /><sub>Prometheus</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/temporal.svg" width="36" height="36" alt="Temporal" /><br /><sub>Temporal</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/trello/trello-original.svg" width="36" height="36" alt="Trello" /><br /><sub>Trello</sub></td>
+</tr>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/apple/apple-original.svg" width="36" height="36" alt="macOS" /><br /><sub>macOS</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/windows11/windows11-original.svg" width="36" height="36" alt="Windows" /><br /><sub>Windows</sub></td>
+</tr>
+</table>
+</details>
+
+<details open>
+<summary><strong>Embedded systems, robotics & creative development</strong></summary>
+<br />
+<table>
+<tr>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino" /><br /><sub>Arduino</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/raspberrypi/raspberrypi-original.svg" width="36" height="36" alt="Raspberry Pi" /><br /><sub>Raspberry Pi</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.0.0/icons/espressif.svg" width="36" height="36" alt="ESP32" /><br /><sub>ESP32</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" /><br /><sub>Unity</sub></td>
+<td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/unrealengine/unrealengine-original.svg" width="36" height="36" alt="Unreal Engine" /><br /><sub>Unreal Engine</sub></td>
+<td align="center" width="105"><strong>Pygame</strong></td>
+<td align="center" width="105"><strong>Tkinter</strong></td>
+</tr>
+<tr>
+<td align="center" width="105"><strong>IoT</strong></td>
+<td align="center" width="105"><strong>PCB Design</strong></td>
+</tr>
+</table>
+</details>
+
+**Additional tools:** LangFlow · LCEL · Redux · Smarty · Vercel AI SDK · ChatGPT · Claude · GitHub Copilot · OmniRoute
+
+### Engineering practices & specialisms
+
+**AI systems:** Prompt and context engineering · RAG ingestion, chunking and retrieval · Hybrid search and reranking · Structured output and tool calling · Agent state and memory · Human-in-the-loop workflows · Evaluation and tracing · Model routing · Guardrails and prompt-injection defenses · Token and cost analysis · Quantization and LoRA
+
+**Software delivery:** API design · WebSockets and WebRTC · CI/CD · Containerization · Database design · Testing and debugging · Team leadership and mentoring
+
+**Additional experience:** Cybersecurity, ethical hacking and cryptography · Blockchain/Web3 · Electronics prototyping, firmware and hardware integration
+
+---
+
+## Coding activity & community
+
+<!-- Existing widgets preserved verbatim from the supplied profile. -->
 
 <p align="center">
 <!--   <img height="150" width="150" src="WEBP/left.webp"/> -->
@@ -161,3 +260,13 @@
 <!--   <img height="150" width="150" src="WEBP/right.webp"/> -->
 </p>
 
+
+<!--
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ZaeemTarrar&style=flat&color=blue"/> •   
+  <a href="https://user-badge.committers.top/india_private/ZaeemTarrar"><img src="https://user-badge.committers.top/india_private/ZaeemTarrar.svg"/></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ZaeemTarrar?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/ZaeemTarrar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/ZaeemTarrar"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+-->
