@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" width="285" alt="Tony Stark — a little Iron Man inspiration" />
+<img align="right" src="https://pngimg.com/uploads/ironman/ironman_PNG91.png" width="285" alt="Iron Man in his red-and-gold armored suit, transparent background" />
 
 ## ⚡ A little about me
 
@@ -30,7 +30,7 @@
 
 <br clear="both" />
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Animated engineer building software at a workstation" />
+<img align="right" src="https://pngimg.com/uploads/robot/robot_PNG106.png" width="270" alt="Humanoid robot, transparent background" />
 
 ## 🧠 Code, intelligence & a little hardware magic
 
